@@ -1,0 +1,41 @@
+.Title1{
+  color: rgb(243, 130, 0);
+  padding: 20px;
+}
+
+.red-star{
+  color: red;
+}
+
+Input {
+  
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid grey !important;
+  width: 100% !important;
+  height: 28px;
+  
+  }   
+
+  .Row1{
+
+  position:relative !important;
+  margin-left: 100px;
+
+  }
+  .Row2{
+    margin-top: 40px;
+    padding: 15px;
+    position:relative !important;
+  margin-left: 80px;
+
+  }
+
+  .Row3{
+    margin-top: 40px;
+    padding: 15px;
+    position:relative !important;
+  margin-left: 80px;
+
+
+  }
